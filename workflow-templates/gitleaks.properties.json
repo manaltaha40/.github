@@ -1,0 +1,13 @@
+{
+    "name": "Gitleak Workflow",
+    "description": "Gitleak starter workflow.",
+    "iconName": "gitleak-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
